@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211874252912",
+    "project_id": "tutuenti",
+    "storage_bucket": "tutuenti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211874252912:android:ea70f09e5ec9378102ccb5",
+        "android_client_info": {
+          "package_name": "com.example.tutuenti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskVuVLP1-Vamkr44JeHp8hz6FEYCx4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
